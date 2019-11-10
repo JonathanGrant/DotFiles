@@ -4,7 +4,7 @@ bind -x '"\C-l": clear'
 
 # Define all aliases here
 alias l="ls -lhrts"
-alias lsd="ls -dA ./*/"
+alias lsd="ls -dA"
 alias lsa="ls -a"
 alias p="python"
 alias ed="vim"
