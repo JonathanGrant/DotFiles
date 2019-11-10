@@ -1,10 +1,5 @@
 # .bash_profile
 
-# Get the functions
-if [ -f ~/.bashrc ]; then
-	. ~/.bashrc
-fi
-
 bind -x '"\C-l": clear'
 
 # Define all aliases here
